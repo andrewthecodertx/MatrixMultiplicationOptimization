@@ -46,3 +46,11 @@ This project includes:
 - `make summary` - Display efficiency comparison table
 - `make clean` - Remove build artifacts
 - `make help` - Show all available targets
+
+## License
+
+MIT, see [LICENSE](LICENSE).
+
+## Contributing
+
+PRs welcome. Please open an issue first for major changes.
